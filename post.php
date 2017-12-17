@@ -8,16 +8,6 @@
 
 ?>
 
-<?php
-/**
- * Created by PhpStorm.
- * User: hikmetis
- * Date: 12/10/17
- * Time: 7:24 PM
- */
-
-?>
-
 <!DOCTYPE html>
 <!DOCTYPE html>
 <html lang="en">
