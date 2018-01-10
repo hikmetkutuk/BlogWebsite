@@ -99,7 +99,7 @@
                             Accusantium, ad aperiam deserunt dicta et eum facere modi nesciunt nisi officia quisquam repellat voluptate!
                             Blanditiis dolor ducimus reiciendis unde voluptate! Magnam.
                         </p>
-                        <a href="#" class="btn btn-info">Read More  <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+                        <a href="post.php" class="btn btn-info">Read More  <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
                     </div>
                     <div align="center" class="card-footer text-muted">
                         <span>published date 10.12.2017 22:52</span>
@@ -114,7 +114,7 @@
                             Accusantium, ad aperiam deserunt dicta et eum facere modi nesciunt nisi officia quisquam repellat voluptate!
                             Blanditiis dolor ducimus reiciendis unde voluptate! Magnam.
                         </p>
-                        <a href="#" class="btn btn-info">Read More  <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+                        <a href="post.php" class="btn btn-info">Read More  <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
                     </div>
                     <div align="center" class="card-footer text-muted">
                         <span>published date 10.12.2017 22:52</span>
@@ -129,7 +129,7 @@
                             Accusantium, ad aperiam deserunt dicta et eum facere modi nesciunt nisi officia quisquam repellat voluptate!
                             Blanditiis dolor ducimus reiciendis unde voluptate! Magnam.
                         </p>
-                        <a href="#" class="btn btn-info">Read More  <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+                        <a href="post.php" class="btn btn-info">Read More  <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
                     </div>
                     <div align="center" class="card-footer text-muted">
                         <span>published date 10.12.2017 22:52</span>
@@ -144,7 +144,7 @@
                             Accusantium, ad aperiam deserunt dicta et eum facere modi nesciunt nisi officia quisquam repellat voluptate!
                             Blanditiis dolor ducimus reiciendis unde voluptate! Magnam.
                         </p>
-                        <a href="#" class="btn btn-info">Read More  <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+                        <a href="post.php" class="btn btn-info">Read More  <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
                     </div>
                     <div align="center" class="card-footer text-muted">
                         <span>published date 10.12.2017 22:52</span>
